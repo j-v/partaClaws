@@ -1,5 +1,6 @@
 *.dll
 *.exe
+*.lib
 
 # OF-specific ignore patterns
 
