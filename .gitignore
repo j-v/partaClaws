@@ -1,3 +1,6 @@
+*.dll
+*.exe
+
 # OF-specific ignore patterns
 
 openFrameworks.a
@@ -50,6 +53,7 @@ xcuserdata
 *.pdb
 *.ilk
 *.aps
+*.user
 ipch/
 
 #Eclipse

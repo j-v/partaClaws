@@ -1,0 +1,16 @@
+<panel>
+	<particleSize>9.5</particleSize>
+	<maxV>1</maxV>
+	<attractiveForce>0.001</attractiveForce>
+	<repulsiveForce>0.0002</repulsiveForce>
+	<thresholdCenter>100</thresholdCenter>
+	<interRepulsiveForce>0.135</interRepulsiveForce>
+	<thresholdInterParticleSquared>12500</thresholdInterParticleSquared>
+	<numParticles>120</numParticles>
+<panel/>
+<UnknownName>255, 255, 255, 255</UnknownName>
+<bg2>0, 59, 54, 255</bg2>
+	<bg1>0, 0, 0, 255</bg1>
+	<particle_color>255, 136, 255, 255</particle_color>
+	<ambient>22, 255, 255, 255</ambient>
+</panel>
